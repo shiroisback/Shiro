@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/4136557">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/4136557.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/4136557.png?v=1" alt="TryHackMe Badge" />
   </a>
 </p>
 
@@ -39,17 +39,13 @@ Junior Pentester focalisé sur la sécurité offensive et le scripting. Expertis
 ### Statistiques GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_ICI&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_ICI&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" />
 </p>
 
 ---
 
 ### Contact
 
-<p align="left">
-  <a href="mailto:lsecfr@outlook.fr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&label=lsecfr@outlook.fr" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&label=shiroisback" />
-</p>
+- **Email** : lsecfr@outlook.fr
+- **Discord** : shiroisback
