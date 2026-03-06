@@ -48,7 +48,6 @@ Au-delà de la recherche de vulnérabilités connues (CVE), mon approche privil�
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shiroisback&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroisback&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
