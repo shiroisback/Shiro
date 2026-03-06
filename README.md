@@ -40,6 +40,19 @@ Au-delà de la recherche de vulnérabilités connues (CVE), mon approche privil�
 
 ---
 
+### GitHub Activity & Stats
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shiroisback&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shiroisback&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroisback&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
 ### Contact
 
 - **Email** : lsecfr@outlook.fr
