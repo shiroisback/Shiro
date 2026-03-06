@@ -3,12 +3,8 @@
 </div>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/4136557">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/4136557.png?v=1" alt="TryHackMe Badge" />
-  </a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/4136557.png" alt="TryHackMe Stats" />
 </p>
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4136557" style='border:none;'></iframe>
 
 ---
 
@@ -41,8 +37,8 @@ Junior Pentester focalisé sur la sécurité offensive et le scripting. Expertis
 ### Statistiques GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_ICI&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_ICI&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" />
 </p>
 
 ---
