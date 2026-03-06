@@ -22,20 +22,11 @@ Junior Pentester focalisé sur la sécurité offensive et le scripting. Expertis
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
----
-
-### Statistiques GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=shiroisback&show_icons=true&theme=dark&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=shiroisback&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ---
 
